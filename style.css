@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+#canvas {
+    border: 10px solid black;
+    border-radius: 45px;
+    background: white;
+}
+
+.score {
+    font-family: sans-serif;
+    font-size: 28px;
+}
